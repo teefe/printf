@@ -23,4 +23,8 @@ The available convertion specifiers are:
 All the files are to be compiled on Ubuntu 14.04 LTS
 Compile your code with gcc -Wall -Werror -Wextra -pedantic *.c
 Include the "main.h" header file on the functions using the _printf()
+<<<<<<< HEAD
 >>>>>>> 42de773bf4e101bf4fae7efcd839188ab9cfa652
+=======
+ format specifiers
+>>>>>>> c75df586f3f2a7567ea9229e3bdd744d450cb07f
